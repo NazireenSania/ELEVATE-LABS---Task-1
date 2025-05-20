@@ -1,6 +1,6 @@
 # Netflix Data Cleaning – Task 1
 
-This project is part of a Data Analyst Internship assignment.
+
 
 ## 🧹 Objective
 Clean and preprocess the "Netflix Movies and TV Shows" dataset:
